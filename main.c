@@ -1,3 +1,6 @@
+// Author: Yeman Xu ybx5148@psu.edu
+// Collaborator: Shiao Zhuang sqz5328@psu.edu
+// Collaborator: Zhihong Jiang zbj5088@psu.edu
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
